@@ -1,0 +1,48 @@
+/* html tag tasks */
+body {
+    background-color:lightgrey;
+}
+
+h2 {
+    font-style: italic;
+    padding: 10px;
+    text-align: center;
+}
+
+/* External text edits */
+.text-font {
+    font-style: italic;
+}
+
+.web-title {
+    font-style: italic;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 2px gray;
+
+}
+.tube{
+    color: red;
+    font-size: 34px;
+}
+
+/* Media content Edits includeing pictures and videos*/
+.grid-container{
+    display: grid;
+    grid-row-gap: 40px;
+    grid-column-gap: 10px;
+    grid-template-columns: auto auto auto ;
+    grid-template-rows: auto auto auto;
+    background-color: coral;
+
+}
+
+.news-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-edit{
+     
+}
